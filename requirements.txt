@@ -1,0 +1,13 @@
+pandas==0.25.1
+torch==1.3.1
+nltk==3.4.5
+h5py==2.10.0
+fastai==1.0.59
+numpy==1.16.1
+typing==3.7.4.1
+matplotlib==3.1.1
+torchtext==0.4.0
+allennlp==0.9.0
+dataclasses==0.7
+scikit_learn==0.22
+tensorboardX==1.9
